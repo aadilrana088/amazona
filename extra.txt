@@ -1,1 +1,9 @@
+Install Packages
 npm install @mui/material @mui/styles  @mui/icons-material @emotion/styled @emotion/server @emotion/react
+
+Install Sanity
+https://www.sanity.io/codingwithbasir
+npm install -g @sanity/cli
+sanity init --coupon codingwithbasir
+ cd sanity
+ sanity start
